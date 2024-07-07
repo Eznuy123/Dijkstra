@@ -1,0 +1,8 @@
+# ninja log v5
+3	439	7420411919089934	CMakeFiles/untitled.dir/main.cpp.obj	a38f4032ce01e98e
+440	1167	7420411926232794	untitled.exe	80c5b515e0e38455
+4	548	7420409350533953	CMakeFiles/untitled.dir/Dijkstra.cpp.obj	cf630be7afa1ef02
+3	584	7420414540080595	CMakeFiles/untitled.dir/Dijkstra.cpp.obj	cf630be7afa1ef02
+585	1293	7420414547055603	untitled.exe	80c5b515e0e38455
+5	656	7420418043879900	CMakeFiles/untitled.dir/Dijkstra.cpp.obj	cf630be7afa1ef02
+657	1349	7420418050756685	untitled.exe	80c5b515e0e38455
